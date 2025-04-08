@@ -26,4 +26,4 @@ forecasting.py: Reference script showing how to process data, implement multiple
 requirements.txt: Python dependencies.
 
 Contact
-For any questions or collaboration requests, please open an issue or contact me at YourEmail@example.com. Contributions and suggestions are welcome!
+For any questions or collaboration requests, please open an issue or contact me at maaqib90@gmail.com. Contributions and suggestions are welcome!
